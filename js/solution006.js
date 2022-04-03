@@ -22,3 +22,4 @@ function doubled(arr){
 //map through the array and multiply each element by 2. also return lol
 doubled([1,2,3])
 console.log(doubled([2,3,4]),[4,6,8])
+console.log(doubled([]))
