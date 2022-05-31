@@ -23,6 +23,7 @@
 digitize(9238)
 console.log(digitize(330),[0,3,3])
 
+<<<<<<< HEAD
 // can't do it this way, use map
 function digitize(n) {
     // make number a string and split that number
@@ -32,3 +33,6 @@ function digitize(n) {
 }
 
 //just needed to map through and make each string element into an integer
+=======
+// can't do it this way, use map
+>>>>>>> 716b803df421b47c6738a6f7187cef0e6f812e11
